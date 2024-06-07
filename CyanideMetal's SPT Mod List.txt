@@ -1,0 +1,111 @@
+Date Made: 6/7/2024
+
+
+SPT Version 3.8.3
+
+
+These are the mods that I am currently using, and they should all work nicely. The names may seem odd because I use the file names instead of the site names, but don't fear they are the same. You may realize that the Realisim mod is not in this pack due to incompatibilities that would be made with some mods, and generally, I don't want to relearn Tarkov with the stuff brought with Realisim. I may make a different mod list where I have realism and use all compatible mods. Beware that this mod list will update and change over time.
+
+I have used Merlin's SPT Mod List : https://gist.github.com/Areorah/a8dd33fa0415962883d896f825b536ba 
+This inspired for most of the mods you will find in this list
+
+If you notice that the server says that Realisim is missing JSON, go to user/mods and remove Realisim. Also, if you see the server spitting a bunch of code in yellow text about live fleas, don't worry about it :).
+
+If you are attempting to extract the files and see that it isn't working, the rule of thumb is that if it is a .dll, it goes into BepInEx/plugins. If it is a file with stuff in it, such as Package.json, it will go into user/mods.
+
+This is in the order of how I installed the mods (if it matters or not)
+
+
+AmandsGraphics.1.6.2					https://hub.sp-tarkov.com/files/file/813-amands-s-graphics/			
+DanW-SPTQuestingBots					https://hub.sp-tarkov.com/files/file/1534-questing-bots/			
+DrakiaXYZ-BigBrain-0.4.0_3.8.0				https://hub.sp-tarkov.com/files/file/1219-bigbrain/#overview			
+DrakiaXYZ-Waypoints-1.4.3				https://hub.sp-tarkov.com/files/file/1119-waypoints-expanded-bot-patrols-and-navmesh/			
+SAIN-2.3.3-Release					https://hub.sp-tarkov.com/files/file/1062-sain-2-0-solarint-s-ai-modifications-full-ai-combat-system-replacement/			
+Skwizzy-LootingBots-1.3.2				https://hub.sp-tarkov.com/files/file/1096-looting-bots/			
+SWAG-Donuts-v3.3.5-SPT380				https://hub.sp-tarkov.com/files/file/878-swag-donuts-dynamic-spawn-waves-and-custom-spawn-points/			
+kmyuhkyuk-GamePanelHUD-(Release_3.1.0)			https://hub.sp-tarkov.com/files/file/652-game-panel-hud/	
+MoreCheckmarks-1.5.13-for-3.8.0-29197			https://hub.sp-tarkov.com/files/file/1159-morecheckmarks/		
+KominoStyle-SPT-DisplayOfficialVersion-master		https://hub.sp-tarkov.com/files/file/1134-display-official-version/#overview	
+kmyuhkyuk-EFTApi-(Release_1.2.1)			https://hub.sp-tarkov.com/files/file/1215-eft-api/		
+Carl-300 Blackout Expansion 1.1.2 - Realism patch	https://hub.sp-tarkov.com/files/file/1418-300-blackout-expansion-by-carl-makes-mods/	
+DeHazardifier						https://hub.sp-tarkov.com/files/file/1784-dehazardifier-updated-by-cj/	
+maxloo2-betterkeys-updated-v1.2.3			https://hub.sp-tarkov.com/files/file/1963-better-keys-updated/#overview	
+MoxoPixel-BlackCore					https://hub.sp-tarkov.com/files/file/1345-blackcore/	
+MoxoPixel-MagTape					https://hub.sp-tarkov.com/files/file/1404-mag-tape/	
+MoxoPixel-TacticalGearComponent				https://hub.sp-tarkov.com/files/file/1555-tactical-gear-component/	
+RaiRaiTheRaichu-AmmoStats-3.1.1				https://hub.sp-tarkov.com/files/file/284-ammo-stats-in-description/	
+stckytwl.BetterBulletCracks				https://hub.sp-tarkov.com/files/file/1960-better-bullet-cracks-bbc/	
+VCQL-2.0.1						https://hub.sp-tarkov.com/files/file/885-virtual-s-custom-quest-loader/	
+3.8.x_AnyStand-2.0.0					https://hub.sp-tarkov.com/files/file/1512-anystand/	
+aMoxoPixel-Painter					https://hub.sp-tarkov.com/files/file/1412-painter/	
+ArtemTrader1.6.2					https://hub.sp-tarkov.com/files/file/1410-artem/#overview	
+BBBW-1.0.3						https://hub.sp-tarkov.com/files/file/1740-borkel-s-bloody-bullet-wounds/	
+BossNotifier						https://hub.sp-tarkov.com/files/file/1737-boss-notifier/	
+Declutterer						https://hub.sp-tarkov.com/files/file/1785-de-clutterer-updated-by-cj/	
+DynamicMaps-0.3.1.2-e1cc3770				https://hub.sp-tarkov.com/files/file/1981-dynamic-maps/	
+FinsEerieSilence-1.5.0					https://hub.sp-tarkov.com/files/file/840-fin-s-eerie-silence-updated/	
+Fontaine-FOV-Fix-v1.2.0-SPT-v3.8.3			https://hub.sp-tarkov.com/files/file/942-fontaine-s-fov-fix-variable-optics/	
+HandsAreNotBusy						https://hub.sp-tarkov.com/files/file/1810-handsarenotbusy/	
+ItemAttributeFix-1.3.0					https://hub.sp-tarkov.com/files/file/1232-item-attribute-fix/	
+ItemSellPrice-1.3.0					https://hub.sp-tarkov.com/files/file/1230-item-sell-price/	
+Jehree-GildedKeyStorage-1.3.2				https://hub.sp-tarkov.com/files/file/1166-gilded-key-storage/	
+Lotus.v.1.2.5.for.SPT.3.8.0.by.Lunnayaluna		https://hub.sp-tarkov.com/files/file/1717-lotus/	
+RaiRai.ColorConverterAPI				https://hub.sp-tarkov.com/files/file/1509-color-converter-api/	
+skulltag-instantrepeatables-1.0.0			https://hub.sp-tarkov.com/files/file/1797-instant-repeatables/	
+WTT-Armory-HK417 - 1.1.2				https://hub.sp-tarkov.com/files/file/1984-wtt-armory-hk417/	
+WTT-SianydeAndG3iness					https://hub.sp-tarkov.com/files/file/1957-wtt-heckler-koch-g3/	
+WTT-SianydeAndScorpiness				https://hub.sp-tarkov.com/files/file/1901-wtt-cz-scorpion-evo-3/	
+acidphantasm-brightlasers				https://hub.sp-tarkov.com/files/file/1880-brightlasers/	
+3.8.x_1Calibers_Ammunitions_Template-3.0.0		https://hub.sp-tarkov.com/files/file/1469-calibers-ammunitions-template-beta/	
+3.8.x_aaMFACSHOP-1.2.0					https://hub.sp-tarkov.com/files/file/1208-mfac-shop-module/	
+3.8.x_Gear_Modular_Juggernaut-2.6.9_WITH_INSERTS	https://hub.sp-tarkov.com/files/file/1641-modular-juggernaut-armor/
+3.8.x_Guns_MFAC-3.1.0					https://hub.sp-tarkov.com/files/file/1135-mfac-guns/#tab_5609f1be7826b74b24a82dbfea7acc239a2d1e8b
+3.8.x_Guns_YetAnotherPort_Miralyn-2.0.2			https://hub.sp-tarkov.com/files/file/1245-yet-another-miralyn-weapons-port/
+3.8.x_zAMMO_KCH_Armory_ExampleForCATmod-2.0.0		https://hub.sp-tarkov.com/files/file/1471-kch-modpack-port-custom-ammo-cat-ammo-example/
+3.8.x_zMFAC Ammo-3.0.0					https://hub.sp-tarkov.com/files/file/1083-mfac-ammo/
+ChooChoo-Tradermodding-1.7.0				https://hub.sp-tarkov.com/files/file/1795-trader-modding-and-improved-weapon-building/
+CWX-MegaMod						https://hub.sp-tarkov.com/files/file/2010-cwx-megamod/
+DrakiaXYZ-EquipFromWeaponRack-1.1.0			https://hub.sp-tarkov.com/files/file/1567-equip-from-weapon-rack/
+DrakiaXYZ-QuickMoveToContainer-1.0.2			https://hub.sp-tarkov.com/files/file/1859-quick-move-to-containers/
+DrakiaXYZ-TaskListFixes-1.4.0				https://hub.sp-tarkov.com/files/file/1114-task-list-fixes/
+PlayerEncumbranceBar-1.0.5-e0056aa2			https://hub.sp-tarkov.com/files/file/1898-player-encumbrance-bar/
+QuickWeaponRackAccess-1.0.3-2bfe81a7			https://hub.sp-tarkov.com/files/file/1887-quick-weapon-rack-access/
+StashSearch						https://hub.sp-tarkov.com/files/file/1769-stash-search/
+Tyfon-UIFixes-1.6.5					https://hub.sp-tarkov.com/files/file/1860-ui-fixes/
+WTT-PackNStrap						https://hub.sp-tarkov.com/files/file/1790-wtt-pack-n-strap/
+Carl-QHB 1.1.3						https://hub.sp-tarkov.com/files/file/1352-q-honey-badger-by-carl-makes-mods/#overview
+DrakiaXYZ-QuestTracker-1.2.0				https://hub.sp-tarkov.com/files/file/1574-quest-tracker/
+dvize.PIRMv1.9.1					https://hub.sp-tarkov.com/files/file/850-props-in-raid-modding-pirm/
+RaidOverhaul						https://hub.sp-tarkov.com/files/file/1673-raid-overhaul/
+BBRTP-1.03						https://hub.sp-tarkov.com/files/file/1510-borkel-s-big-realistic-thermal-package-bring-real-life-realism-to-your-thermal-s/
+BRNVG-1.5.3_updatedFixed				https://hub.sp-tarkov.com/files/file/1303-borkel-s-realistic-night-vision-goggles-nvgs-and-t-7/
+Carl-STAR15 300 blk 1.1.2				https://hub.sp-tarkov.com/files/file/1419-star-15-by-carl-makes-mods/
+Kaeno-TraderScrolling					https://hub.sp-tarkov.com/files/file/1508-kaeno-traderscrolling/
+MoxoPixel-WhiteCore-1-0-5				https://hub.sp-tarkov.com/files/file/1313-whitecore/#overview
+ReachExtender						https://hub.sp-tarkov.com/files/file/1758-reach-extender/
+removetimegatefromquests-1.0.1				https://hub.sp-tarkov.com/files/file/1653-remove-time-gate-from-quests/
+SkillsExtended						https://hub.sp-tarkov.com/files/file/1722-beta-skills-extended/
+stckytwl.Urusai-ren-3.8.3-1.0.0				https://hub.sp-tarkov.com/files/file/1991-urusai-ren/
+Terkoiz-Skipper-1.1.0					https://hub.sp-tarkov.com/files/file/1861-skipper/
+SIG_MCX_VIRTUS(1.2.5)					https://hub.sp-tarkov.com/files/file/1897-sig-sauer-mcx-virtus-multi-carlibre-rifle/#versions
+UseItemsAnywhere					https://hub.sp-tarkov.com/files/file/1416-use-items-anywhere/
+WTT-Armory-SVD - 1.0.1					https://hub.sp-tarkov.com/files/file/2000-wtt-armory-svd/
+WTT-SianydeAndACRiness					https://hub.sp-tarkov.com/files/file/1862-wtt-remington-adaptive-combat-rifle/
+CactusPie.RamCleanerInterval				https://hub.sp-tarkov.com/files/file/1827-ram-cleaner-fix/#overview
+Arys-QuieterFaceshieldBreathing-1.0.0			https://hub.sp-tarkov.com/files/file/1937-quieter-faceshield-breathing/
+DrakiaXYZ-LootRadius-1.0.1				https://hub.sp-tarkov.com/files/file/1870-loot-radius/
+egbog-RepairMaxDurability				https://hub.sp-tarkov.com/files/file/1819-repair-max-durability/#overview
+MarsyApp-EnableSaveCaseForScav-1.1.0			https://hub.sp-tarkov.com/files/file/1945-secure-container-for-player-scav/#overview
+MusicManiac-GigachadWorkout				https://hub.sp-tarkov.com/files/file/1716-gigachad-workout/#overview
+RaiRai.HiddenCaches					https://hub.sp-tarkov.com/files/file/1770-rai-s-hidden-caches/
+SamSWAT.HeliCrash.ArysReloaded-2.2.2			https://hub.sp-tarkov.com/files/file/1804-samswat-s-helicopter-crash-sites-arys-reloaded/#overview
+SamSWAT.ReflexSightsRework				https://hub.sp-tarkov.com/files/file/1753-reflex-sights-rework-updated/#overview
+WTT-HeadVoiceSelector					https://hub.sp-tarkov.com/files/file/1788-wtt-head-and-voice-selector/#tab_f792828b9d234c2929d8f0e1f764db9744dd4ce9
+choccy-rpg7-1.1.2					https://hub.sp-tarkov.com/files/file/1726-rpg-7/#overview
+
+
+
+
+
+
+(Don't mind the #overview :P)
