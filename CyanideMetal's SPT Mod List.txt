@@ -103,6 +103,9 @@ SamSWAT.ReflexSightsRework				https://hub.sp-tarkov.com/files/file/1753-reflex-s
 WTT-HeadVoiceSelector					https://hub.sp-tarkov.com/files/file/1788-wtt-head-and-voice-selector/#tab_f792828b9d234c2929d8f0e1f764db9744dd4ce9
 choccy-rpg7-1.1.2					https://hub.sp-tarkov.com/files/file/1726-rpg-7/#overview
 raid_review__0.0.3        https://hub.sp-tarkov.com/files/file/2037-raid-review/#overview
+WTT-Armory-RexTacWoS 1.0.3  https://hub.sp-tarkov.com/files/file/2042-wtt-armory-rextac-wages-of-sin/
+utjan.HoFImprovements-1.1   https://hub.sp-tarkov.com/files/file/2038-hall-of-fame-improvements/
+krackasourus-collectables-1.0.0 https://hub.sp-tarkov.com/files/file/2040-collectables-trading-cards/
 
 
 
