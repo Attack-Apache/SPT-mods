@@ -107,6 +107,8 @@ WTT-Armory-RexTacWoS 1.0.3  https://hub.sp-tarkov.com/files/file/2042-wtt-armory
 utjan.HoFImprovements-1.1   https://hub.sp-tarkov.com/files/file/2038-hall-of-fame-improvements/
 krackasourus-collectables-1.0.0 https://hub.sp-tarkov.com/files/file/2040-collectables-trading-cards/
 rainbowpc-lotsofloot-2.2.2 https://hub.sp-tarkov.com/files/file/697-lots-of-loot/#overview
+Penguin's Doom Toys https://hub.sp-tarkov.com/files/file/2064-penguin-s-doom-toy-collectables/
+TheGambler https://hub.sp-tarkov.com/files/file/2013-the-gambler-trader/
 
 
 
